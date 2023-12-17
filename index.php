@@ -18,46 +18,6 @@ $jujutsuSorcerers = $jujutsuInstance->getJujutsuSorcerers();
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jujutsu Sorcerers</title>
     <link rel="stylesheet" href="style.css">
-    <style>
-        table {
-            background-color: #fff;
-            border-collapse: collapse;
-            width: 100%;
-        }
-
-        th,
-        td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: left;
-        }
-
-        th {
-            background-color: #f2f2f2;
-        }
-
-        .action-column {
-            width: 80px;
-        }
-
-        .action-button {
-            display: inline-block;
-            padding: 5px 10px;
-            margin-right: 5px;
-            text-decoration: none;
-            color: #fff;
-            border-radius: 4px;
-        }
-
-        .edit-button {
-            background-color: #4caf50;
-        }
-
-        .delete-button {
-            background-color: #f44336;
-
-        }
-    </style>
 
 </head>
 
