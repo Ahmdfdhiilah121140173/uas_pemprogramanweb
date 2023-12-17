@@ -1,6 +1,6 @@
-**Ahmad Fadillah**
-**121140173**
-**RB**
+**Ahmad Fadillah** <br>
+**121140173** <br>
+**RB** <br>
 
 Bagian 1: Client-side Programming
 1.1 Pembuatan beberapa halaman termasuk pembuatan loginPage.php, registerPage.php, index.php, edit.php, create.php. Serta beberapa penanganan server seperti logout.php dan delete.php.
